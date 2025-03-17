@@ -4,4 +4,4 @@ cd payrollanalysis
 
 pip install streamlit pandas matplotlib
 
-streamlit run payroll.r
+streamlit run payroll.py
