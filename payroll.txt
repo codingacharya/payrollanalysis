@@ -1,0 +1,26 @@
+Employee_ID,Name,Department,Salary,Overtime_Hours,Overtime_Rate,Total_Pay
+101,John Doe,IT,6000,10,50,6500
+102,Sarah Lee,HR,5000,5,40,5200
+103,Mike Smith,Finance,7000,8,60,7480
+104,Emily Davis,Marketing,5500,6,45,5770
+105,James Brown,IT,6200,9,50,6650
+106,Olivia Taylor,HR,4800,7,40,5080
+107,Robert Wilson,Finance,7300,4,55,7520
+108,Sophia Martinez,Marketing,5400,5,45,5625
+109,William Anderson,IT,6500,8,50,6900
+110,Mia Thomas,HR,4900,6,40,5140
+111,Benjamin White,Finance,7100,7,60,7520
+112,Charlotte Harris,Marketing,5600,9,45,6005
+113,Alexander Clark,IT,6300,6,50,6600
+114,Amelia Lewis,HR,4700,8,40,5020
+115,Henry Walker,Finance,7200,10,55,7750
+116,Ella Young,Marketing,5300,5,45,5525
+117,Daniel Hall,IT,6400,7,50,6750
+118,Grace Allen,HR,4600,4,40,4760
+119,Samuel King,Finance,7400,6,60,7760
+120,Chloe Wright,Marketing,5200,8,45,5560
+121,David Scott,IT,6100,9,50,6550
+122,Lily Green,HR,5000,7,40,5280
+123,Christopher Adams,Finance,7300,5,60,7600
+124,Victoria Baker,Marketing,5700,6,45,5970
+125,Joseph Nelson,IT,6000,5,50,6250
